@@ -20,3 +20,13 @@
 • Construction of a data modelling system within SQLite. <br>
 • Data analysis with both databases: MongoDB and SQLite.<br>
 • Graphs and KPIs development.
+
+# Tools used
+• EditorMD from Pandao<br>
+• Python<br>
+        Web Scraping: BeautifulSoup, Selenium, requests<br>
+        Transformation and analysis: Pandas, Jupyter Notebooks<br>
+        Load: sqlite3, PyMongo<br>
+• VS Code<br>
+• MongoDB, SQLite
+
