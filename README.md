@@ -14,10 +14,12 @@
 • Connection to MongoDB.<br>
 • Or connections to SQLite, MySQL and PostgreSQL.
 
-# Data Modelling
-• Construction of a data modelling system. <br>
-• Data analysis with both databases.<br>
-• Graphs and KPIs development.
 
+## Objetives 
+
+• Analyze data.
+• Extracting data from websites.
+• Understanding of results by analyzing.
+• Apply Big Data techniques to improve the company.
 
 
