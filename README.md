@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Big Data ETL 📊 </h1>
-</div>
-<br><br>
+</div> <br>
+
 ## Extract of Datos
 • Getting data files csv/json from websites.
 <br>
@@ -17,9 +17,9 @@
 
 ## Objetives 
 
-• Analyze data.
-• Extracting data from websites.
-• Understanding of results by analyzing data.
+• Analyze data.<br>
+• Extracting data from websites.<br>
+• Understanding of results by analyzing data.<br>
 • Apply Big Data techniques to improve the company.
 
 
