@@ -11,8 +11,7 @@
 • Use of python libraries to create KPIs: Matplotlib, Seaborn...
 <br>
 ## Loading Data 
-• Connection to MongoDB.<br>
-• Or connections to SQLite, MySQL and PostgreSQL.
+• Connection to SQLite, MySQL, PostgreSQL, MongoDB...
 <br>
 
 ## Objetives 
