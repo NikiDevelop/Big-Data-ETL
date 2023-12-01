@@ -2,31 +2,22 @@
   <h1>Big Data ETL 📊 </h1>
 </div>
 
-# Extraer Datos
+## Extract of Datos
+• Getting data files csv/json from websites.
 
-•Obtendremos los datos
-
-# Transformación Data
-• Working with Microsoft Excel and CSVed to get usefull and clean .csv files for data management.<br>
+## Transforming Data
 • Use of Jupyter Notebooks, Python and Pandas for data analysis.<br>
-• Use of pandas to read JSON files and sort boss information.<br>
+• Use of pandas to read JSON files information.<br>
 • Use of python libraries to create KPIs: Matplotlib, Seaborn...
 
-# Loading Data 
-• Main connection to MongoDB.<br>
-• Secondary connections to SQLite, MySQL and PostgreSQL.
+## Loading Data 
+• Connection to MongoDB.<br>
+• Or connections to SQLite, MySQL and PostgreSQL.
 
 # Data Modelling
-• Construction of a data modelling system within SQLite. <br>
-• Data analysis with both databases: MongoDB and SQLite.<br>
+• Construction of a data modelling system. <br>
+• Data analysis with both databases.<br>
 • Graphs and KPIs development.
 
-# Tools used
-• EditorMD from Pandao<br>
-• Python<br>
-        Web Scraping: BeautifulSoup, Selenium, requests<br>
-        Transformation and analysis: Pandas, Jupyter Notebooks<br>
-        Load: sqlite3, PyMongo<br>
-• VS Code<br>
-• MongoDB, SQLite
+
 
