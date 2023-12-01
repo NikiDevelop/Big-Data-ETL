@@ -2,7 +2,7 @@
   <h1>Big Data ETL 📊 </h1>
 </div> <br>
 
-## Extract of Datos
+## Extract of Data
 • Getting data files csv/json from websites.
 <br>
 ## Transforming Data
